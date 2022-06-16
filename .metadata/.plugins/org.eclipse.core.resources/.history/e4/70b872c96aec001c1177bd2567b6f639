@@ -1,0 +1,9 @@
+package akash.damo;
+
+import javax.servlet.http.HttpServlet;
+
+public class HttpServletDemo extends HttpServlet{
+
+	
+   
+}

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Welcome to Akash World</title>
+</head>
+<body>
+<h2>Name: </h2>
+<input type="text" name="fname"  placeholder="Enter your name" /> 
+
+<h2>Mobile No: </h2>
+<input type="text" name="fname"  placeholder="Enter your monbile no" />
+</br>
+<button type="submit">Ok</button>
+<button type="reset">Reset</button> 
+
+</body>
+</html>

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<form action="login" method="post">
+<table>
+		<tr>
+			<th colspan="1"> Log In</th>
+		</tr>
+		<tr>
+			<th>Email ID: </th>
+			<th><input type="text" name="email" placeholder="Enter your email Id"></th>
+		</tr>
+		<tr>
+			<th>Password: </th>
+			<th><input type="text" name="pass" placeholder="Enter your password"></th>
+		</tr>
+		<tr>
+			<th><a href="register.html">Sing up</a></th>
+		</tr>
+	</table>
+
+</form>
+</body>
+</html>

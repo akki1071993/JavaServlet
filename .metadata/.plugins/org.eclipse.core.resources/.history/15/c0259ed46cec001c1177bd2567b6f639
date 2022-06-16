@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+
+
+<a href="welcome">Click me</a>
+<form action="loging" method="post">
+<input type="text" value="fname">
+<input type="text" value="lname">
+<button type="submit" value="Ok"> Submit</button>
+
+
+</form>
+</body>
+</html>

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+<head>
+<link rel="stylesheet" href="table.css">
+</head>
+<body>
+	<form action="registration" method="post">
+		<Table>
+			<tr>
+				<th colspan="1">Registration Form</th>
+			</tr>
+			<tr>
+				<th>Name:</th>
+				<th><input type="text" name="name"
+					placeholder="Enter your name"></th>
+			<tr>
+			<tr>
+				<th>Mobile No:</th>
+				<th><input type="text" name="mobileNo"
+					placeholder="Enter your mobile no"></th>
+			<tr>
+			<tr>
+				<th>Email:</th>
+				<th><input type="text" name="email"
+					placeholder="Enter your email Id"></th>
+			<tr>
+			<tr>
+				<th>Password:</th>
+				<th><input type="text" name="pass"
+					placeholder="Enter your Password"></th>
+			<tr>
+			<tr>
+				<th><button type="submit" value="Submit">Submit</button></th>
+				<th><button type="reset" value="Reset">Reset</button></th>
+			<tr>
+		</Table>
+	</form>
+</body>
+</html>

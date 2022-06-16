@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+	<form action="logingServlet" method="post">
+		<table>
+			<tr>
+				<th>User Name:</th>
+				<th><input type="text" name="user" ></th>
+			</tr>
+			<tr>
+				<th>Password: </th>
+				<th><input type="password" name="psw"> </th>
+			</tr>
+			<tr>
+				<th><input type="submit" value="Submit"></th>
+				<th><a href="ProfileServlet"> Profile Page</a></th>
+			</tr>
+		</table>
+	</form>
+</body>
+</html>

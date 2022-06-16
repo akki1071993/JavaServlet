@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+	<Table>
+		<tr>
+			<th>Name: </th>
+			<th><input type="text" name="name" placeholder="Enter your name">
+		<tr>
+		<tr>
+			<th>Mobile No: </th>
+			<th><input type="text" name="mobileNo" placeholder="Enter your mobile no">
+		<tr>
+		<tr>
+			<th>Email: </th>
+			<th><input type="text" name="email" placeholder="Enter your email Id">
+		<tr>
+		<tr>
+			<th>Password: </th>
+			<th><input type="text" name="pass" placeholder="Enter your Password">
+		<tr>
+		
+	</Table>
+</body>
+</html>

@@ -1,0 +1,5 @@
+package akash.cookies;
+
+public class LogoutServlet {
+
+}
