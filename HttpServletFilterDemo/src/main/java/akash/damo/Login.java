@@ -20,7 +20,6 @@ public class Login extends HttpServlet {
 		PrintWriter p = response.getWriter();
 		String email = request.getParameter("email");
 		
-		
 	
 			p.print("<h1>"+email + " Successfully login <br> </h1>");
 			p.print("<h2>Welcome to the Java Servlet </h2>");
