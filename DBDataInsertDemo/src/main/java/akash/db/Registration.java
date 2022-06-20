@@ -12,8 +12,6 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import org.apache.catalina.session.PersistentManager;
-
 @WebServlet("/Registration")
 public class Registration extends HttpServlet {
 	private static final long serialVersionUID = 1L;
@@ -48,8 +46,6 @@ public class Registration extends HttpServlet {
 				pt.setString(7, uname);
 				pt.setString(8, psw);
 				pt.setLong(9, mobileNo);
-
-				
 
 				long x = pt.executeUpdate();
 				if (x > 0) {
