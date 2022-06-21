@@ -4,14 +4,14 @@
 	<welcome-file-list>
 		<welcome-file>index.html</welcome-file>
 	</welcome-file-list>
-	
+
 	<servlet>
-	<servlet-name>s1</servlet-name>
-	<servlet-class>akash.servlet.WelcomeServlet</servlet-class> 
+		<servlet-name>s1</servlet-name>
+		<servlet-class>akash.servlet.WelcomeServlet</servlet-class>
 	</servlet>
-	
+
 	<servlet-mapping>
-	<servlet-name>s1</servlet-name>
-	<url-pattern>/goGoa</url-pattern>
+		<servlet-name>s1</servlet-name>
+		<url-pattern>/goGoa</url-pattern>
 	</servlet-mapping>
 </web-app>
