@@ -2,6 +2,7 @@
     <wb-module deploy-name="Dynamic Hibernate Demo">
         <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/resources"/>
         <property name="context-root" value="Dynamic_Hibernate_Demo"/>
         <property name="java-output-path" value="/Dynamic Hibernate Demo/build/classes"/>
     </wb-module>

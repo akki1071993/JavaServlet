@@ -226,8 +226,8 @@
 <uri name="http://www.w3.org/2001/XMLSchema" uri="file:///C:/Users/Akash/eclipse/jee-2022-03/eclipse/configuration/org.eclipse.osgi/908/0/.cp/cache/www.w3.org/2001/XMLSchema.xsd"/>
 <system systemId="http://www.w3.org/2001/xml.xsd" uri="file:///C:/Users/Akash/eclipse/jee-2022-03/eclipse/configuration/org.eclipse.osgi/908/0/.cp/cache/www.w3.org/2001/xml.xsd"/>
 <uri name="http://www.w3.org/2001/XInclude" uri="file:///C:/Users/Akash/eclipse/jee-2022-03/eclipse/configuration/org.eclipse.osgi/890/0/.cp/xslt-schemas/xinclude.xsd"/>
-<public publicId="-//Hibernate/Hibernate Mapping DTD 3.0//EN" uri="file:///C:/Users/Akash/.p2/pool/plugins/org.hibernate.eclipse.mapper_5.4.16.v20220207-0815/dtd/hibernate-mapping-3.0.dtd"/>
-<public publicId="-//Hibernate/Hibernate Configuration DTD 3.0//EN" uri="file:///C:/Users/Akash/.p2/pool/plugins/org.hibernate.eclipse.mapper_5.4.16.v20220207-0815/dtd/hibernate-configuration-3.0.dtd"/>
-<public publicId="-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" uri="file:///C:/Users/Akash/.p2/pool/plugins/org.hibernate.eclipse.mapper_5.4.16.v20220207-0815/dtd/hibernate-reverse-engineering-3.0.dtd"/>
-<public publicId="-//Red Hat, Inc.//DTD Meta 1.0//EN" uri="file:///C:/Users/Akash/.p2/pool/plugins/org.jboss.tools.common.model_3.17.200.v20220214-1047/schema/meta.dtd"/>
+<public publicId="-//Hibernate/Hibernate Mapping DTD 3.0//EN" uri="file:///C:/Users/Akash/eclipse/jee-2022-03/eclipse/../../../.p2/pool/plugins/org.hibernate.eclipse.mapper_5.4.16.v20220207-0815/dtd/hibernate-mapping-3.0.dtd"/>
+<public publicId="-//Hibernate/Hibernate Configuration DTD 3.0//EN" uri="file:///C:/Users/Akash/eclipse/jee-2022-03/eclipse/../../../.p2/pool/plugins/org.hibernate.eclipse.mapper_5.4.16.v20220207-0815/dtd/hibernate-configuration-3.0.dtd"/>
+<public publicId="-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" uri="file:///C:/Users/Akash/eclipse/jee-2022-03/eclipse/../../../.p2/pool/plugins/org.hibernate.eclipse.mapper_5.4.16.v20220207-0815/dtd/hibernate-reverse-engineering-3.0.dtd"/>
+<public publicId="-//Red Hat, Inc.//DTD Meta 1.0//EN" uri="file:///C:/Users/Akash/eclipse/jee-2022-03/eclipse/../../../.p2/pool/plugins/org.jboss.tools.common.model_3.17.200.v20220214-1047/schema/meta.dtd"/>
 </catalog>
