@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.security.GeneralSecurityException"/>
-    <fullyQualifiedTypeName name="javax.servlet.GenericServlet"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
-    <fullyQualifiedTypeName name="javax.servlet.http.HttpServlet"/>
     <fullyQualifiedTypeName name="javax.servlet.Servlet"/>
-    <fullyQualifiedTypeName name="javax.servlet.annotation.WebServlet"/>
     <fullyQualifiedTypeName name="javax.servlet.Filter"/>
     <fullyQualifiedTypeName name="javax.servlet.annotation.WebFilter"/>
     <fullyQualifiedTypeName name="java.util.regex.Pattern"/>
@@ -30,7 +25,6 @@
     <fullyQualifiedTypeName name="javax.swing.RepaintManager"/>
     <fullyQualifiedTypeName name="javax.swing.text.html.HTMLEditorKit.Parser"/>
     <fullyQualifiedTypeName name="java.lang.Integer"/>
-    <fullyQualifiedTypeName name="java.math.BigDecimal"/>
     <fullyQualifiedTypeName name="akash.Operation.DBConfig"/>
     <fullyQualifiedTypeName name="java.math.BigInteger"/>
     <fullyQualifiedTypeName name="akash.db.DBConfig"/>
@@ -53,9 +47,17 @@
     <fullyQualifiedTypeName name="org.hibernate.Transaction"/>
     <fullyQualifiedTypeName name="org.hibernate.service.ServiceRegistryBuilder"/>
     <fullyQualifiedTypeName name="org.hibernate.service.ServiceRegistry"/>
-    <fullyQualifiedTypeName name="org.hibernate.boot.registry.StandardServiceRegistry"/>
-    <fullyQualifiedTypeName name="org.hibernate.boot.registry.StandardServiceRegistryBuilder"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="akash.hibernate.Student"/>
     <fullyQualifiedTypeName name="org.hibernate.HibernateException"/>
+    <fullyQualifiedTypeName name="org.hibernate.boot.registry.StandardServiceRegistry"/>
+    <fullyQualifiedTypeName name="org.hibernate.boot.registry.StandardServiceRegistryBuilder"/>
+    <fullyQualifiedTypeName name="org.hibernate.boot.MetadataSources"/>
+    <fullyQualifiedTypeName name="org.hibernate.boot.Metadata"/>
+    <fullyQualifiedTypeName name="java.math.BigDecimal"/>
+    <fullyQualifiedTypeName name="java.sql.Date"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="akash.HibernateComponentMapping.EProduct"/>
+    <fullyQualifiedTypeName name="javax.servlet.annotation.WebServlet"/>
+    <fullyQualifiedTypeName name="akash.demo.Student"/>
 </qualifiedTypeNameHistroy>
