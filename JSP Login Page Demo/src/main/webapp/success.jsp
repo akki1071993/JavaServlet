@@ -8,6 +8,6 @@
 </head>
 <body>
 	<h3>Successfully login</h3>
-	<h4> Welcome <%= request.getParameter("uname") %></h4>
+	<h4>  Welcome<%=  request.getParameter("uname") %></h4>
 </body>
 </html>

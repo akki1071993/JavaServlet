@@ -25,9 +25,10 @@
 	<%!int cube(int n) {
 	return n * n * n;
 }%>
-	<%=	"Cube of 5: "+ cube(5)%>
-	<%=	new java.util.Date()  %>
-	
+
+	<%="Cube of 5: " + cube(5)%>
+	<%=new java.util.Date()%>
+
 
 
 </body>

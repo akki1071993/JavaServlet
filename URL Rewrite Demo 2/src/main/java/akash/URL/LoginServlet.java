@@ -25,7 +25,7 @@ public class LoginServlet extends HttpServlet {
 			p.print("<h2>Welcome:" + user+"</h2>");
 			p.print("<a href='DashboardServlet?user=" + user + "'>Click here to access Dashboard</a>");
 			
-			p.print("<h1><a href = 'DashboardServlet?user="+user+"'>Dashbord</a></h1>");
+			p.print("<h1><a href = 'DashboardServlet?user="+user+"&name="+psw+"'>Dashbord</a></h1>");
 
 		} else {
 			p.print("<h2>Please check User name and Password !</h2>");

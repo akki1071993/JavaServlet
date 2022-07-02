@@ -12,7 +12,7 @@
 	String psw = request.getParameter("psw");
 
 	if (psw.contentEquals("admin@123")) {%>
-
+	
 	<jsp:forward page="success.jsp">
 		<jsp:param value="<%= name %>" name="uname" />
 	</jsp:forward>

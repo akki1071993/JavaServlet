@@ -29,9 +29,9 @@ public class Filter2 extends HttpFilter implements Filter {
 			throws IOException, ServletException {
 		PrintWriter p = response.getWriter();
 		response.setContentType("text/html");
-		p.print("Per Filteration of Second filter <br> ");
+		p.print("Per Filteration of 2 filter <br> ");
 		chain.doFilter(request, response);
-		p.print("Post Filteration of Second filter <br> ");
+		p.print("Post Filteration of 2 filter <br> ");
 	}
 
 }

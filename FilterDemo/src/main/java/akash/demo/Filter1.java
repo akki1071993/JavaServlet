@@ -24,11 +24,11 @@ public class Filter1 implements Filter {
 		response.setContentType("text/html");
 		
 		PrintWriter p = response.getWriter();
-		p.print("Per Filteration of First filter <br> ");
+		p.print("Per Filteration of 1 filter <br> ");
 		
 		chain.doFilter(request, response);
 		
-		p.print("Post Filteration of First filter ");
+		p.print("Post Filteration of 1 filter ");
 		
 	}
 	
