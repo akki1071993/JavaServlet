@@ -29,7 +29,7 @@
 	<c:out value="${ex}"></c:out>
 	<br>
 
-	<c:set var="nub" value="${1000}"></c:set>
+	<c:set var="nub" value="${499}"></c:set>
 	<c:if test="${nub>999}">
 		<%-- like simple if --%>
 		<c:out value="The value is more then 500, Value is:  ${nub}">
@@ -39,8 +39,13 @@
 	<br>
 	<c:choose>
 		<%-- Like If else Statement --%>
-		<c:when test="${nub > 1500 }">
-			<c:out value="The value is more then 1000:">
+		<c:when test="${nub <= 1500 && nub >= 1000 }">
+			<c:out value="The value is between 1500 to 1000:">
+				<br>
+			</c:out>
+		</c:when>
+		<c:when test="${nub <= 999 && nub >= 499}">
+			<c:out value="The value is between 999 to 499:">
 				<br>
 			</c:out>
 		</c:when>
@@ -55,7 +60,9 @@
 	<c:forTokens items="_1_2_3_4_5_6_7_8_9" delims="_" var="s">
 		<c:out value="${s}" />
 	</c:forTokens>
-
+	
+	
+ 
 
 
 

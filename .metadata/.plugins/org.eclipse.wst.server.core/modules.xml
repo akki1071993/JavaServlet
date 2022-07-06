@@ -10,6 +10,7 @@
   <module moduleId="org.eclipse.jst.jee.server:MyServlet" serverId="Tomcat v9.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:CreateSelectDropDB" serverId="Tomcat v9.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:HttpServletFilterDemo" serverId="Tomcat v9.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:FlyawayProject" serverId="Tomcat v9.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.j2ee.server:HibernateComponentMapping" serverId="Tomcat v9.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:RetrievingTheProductDetails" serverId="Tomcat v9.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:CookiesDemo" serverId="Tomcat v9.0 Server at localhost"/>
@@ -20,7 +21,6 @@
   <module moduleId="org.eclipse.jst.j2ee.server:ComponentMapping" serverId="Tomcat v9.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:URL Rewrite Demo 2" serverId="Tomcat v9.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:URLRewrite" serverId="Tomcat v9.0 Server at localhost"/>
-  <module moduleId="org.eclipse.jst.jee.server:DBConnectionDemo" serverId="Tomcat v9.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:DBDataInsertDemo" serverId="Tomcat v9.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:DBCrudOperation" serverId="Tomcat v9.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:URLRewrite2" serverId="Tomcat v9.0 Server at localhost"/>
@@ -33,6 +33,7 @@
   <module moduleId="org.eclipse.jst.jee.server:DBPprocedure" serverId="Tomcat v9.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:JSP Demo" serverId="Tomcat v9.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.j2ee.server:MavenHibernateDemo" serverId="Tomcat v9.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.j2ee.server:Flyaway" serverId="Tomcat v9.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:Dynamic Hibernate Demo" serverId="Tomcat v9.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:Retrieving Product Details" serverId="Tomcat v9.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:SessionHandling" serverId="Tomcat v9.0 Server at localhost"/>

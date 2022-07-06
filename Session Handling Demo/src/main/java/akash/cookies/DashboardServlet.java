@@ -21,6 +21,7 @@ public class DashboardServlet extends HttpServlet {
 		PrintWriter out= response.getWriter();
 		//get parameter from session
 		HttpSession session= request.getSession();
+		
 		String name= (String) session.getAttribute("user");
 		if(name!=null)
 		{	
